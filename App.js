@@ -1,13 +1,14 @@
 //import liraries
 import React, { Component } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
+import Heading from './components/Heading'
 
 // create a component
-class MyAbel extends Component {
+class MyApp extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>My App</Text>
+        <Heading/>
       </View>
     );
   }
@@ -16,11 +17,10 @@ class MyAbel extends Component {
 // define your styles
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    marginTop:10,
+    backgroundColor:'red'
   },
 });
 
 //make this component available to the app
-export default MyAbel;
+export default MyApp;

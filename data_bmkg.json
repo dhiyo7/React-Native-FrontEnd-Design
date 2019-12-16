@@ -1,0 +1,782 @@
+[
+    {
+      "Tanggal": "12-Dec-19",
+      "Jam": "01:00:43 WIB",
+      "point": {
+        "coordinates": "130.21,-6.68"
+      },
+      "Lintang": "6.68 LS",
+      "Bujur": "130.21 BT",
+      "Magnitude": "5.4 SR",
+      "Kedalaman": "170 Km",
+      "_symbol": "../imagesSWF/k2b.swf",
+      "Wilayah": "188 km BaratLaut MALUKUTENGGARABRT"
+    },
+    {
+      "Tanggal": "09-Dec-19",
+      "Jam": "10:47:26 WIB",
+      "point": {
+        "coordinates": "110.15,-9.03"
+      },
+      "Lintang": "9.03 LS",
+      "Bujur": "110.15 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "126 km BaratDaya GUNUNGKIDUL-DIY"
+    },
+    {
+      "Tanggal": "05-Dec-19",
+      "Jam": "19:24:43 WIB",
+      "point": {
+        "coordinates": "126.83,5.33"
+      },
+      "Lintang": "5.33 LU",
+      "Bujur": "126.83 BT",
+      "Magnitude": "5.8 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "148 km TimurLaut MELONGUANE-SULUT"
+    },
+    {
+      "Tanggal": "05-Dec-19",
+      "Jam": "16:13:27 WIB",
+      "point": {
+        "coordinates": "94.42,6.74"
+      },
+      "Lintang": "6.74 LU",
+      "Bujur": "94.42 BT",
+      "Magnitude": "5.5 SR",
+      "Kedalaman": "32 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "137 km BaratLaut KOTA-SABANG-ACEH"
+    },
+    {
+      "Tanggal": "04-Dec-19",
+      "Jam": "13:04:13 WIB",
+      "point": {
+        "coordinates": "130.1,-6.78"
+      },
+      "Lintang": "6.78 LS",
+      "Bujur": "130.1 BT",
+      "Magnitude": "5.5 SR",
+      "Kedalaman": "191 Km",
+      "_symbol": "../imagesSWF/k3.swf",
+      "Wilayah": "188 km BaratLaut MALUKUTENGGARABRT"
+    },
+    {
+      "Tanggal": "03-Dec-19",
+      "Jam": "17:55:29 WIB",
+      "point": {
+        "coordinates": "126.18,1.46"
+      },
+      "Lintang": "1.46 LU",
+      "Bujur": "126.18 BT",
+      "Magnitude": "5.3 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "117 km TimurLaut BITUNG-SULUT"
+    },
+    {
+      "Tanggal": "03-Dec-19",
+      "Jam": "17:52:24 WIB",
+      "point": {
+        "coordinates": "126.14,1.5"
+      },
+      "Lintang": "1.5 LU",
+      "Bujur": "126.14 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "113 km TimurLaut BITUNG-SULUT"
+    },
+    {
+      "Tanggal": "02-Dec-19",
+      "Jam": "06:44:20 WIB",
+      "point": {
+        "coordinates": "130.66,-4.44"
+      },
+      "Lintang": "4.44 LS",
+      "Bujur": "130.66 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "24 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "149 km Tenggara SERAMBAGIANTIMUR-MALUKU"
+    },
+    {
+      "Tanggal": "01-Dec-19",
+      "Jam": "02:49:22 WIB",
+      "point": {
+        "coordinates": "131.19,-4.28"
+      },
+      "Lintang": "4.28 LS",
+      "Bujur": "131.19 BT",
+      "Magnitude": "5.2 SR",
+      "Kedalaman": "76 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "152 km Tenggara SERAMBAGIANTIMUR-MALUKU"
+    },
+    {
+      "Tanggal": "26-Nov-19",
+      "Jam": "10:17:48 WIB",
+      "point": {
+        "coordinates": "128.73,-6.83"
+      },
+      "Lintang": "6.83 LS",
+      "Bujur": "128.73 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "256 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "180 km TimurLaut MALUKUBRTDAYA"
+    },
+    {
+      "Tanggal": "25-Nov-19",
+      "Jam": "05:05:11 WIB",
+      "point": {
+        "coordinates": "132.85,1.73"
+      },
+      "Lintang": "1.73 LU",
+      "Bujur": "132.85 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "283 km TimurLaut TAMBRAUW-PAPUABRT"
+    },
+    {
+      "Tanggal": "24-Nov-19",
+      "Jam": "21:48:04 WIB",
+      "point": {
+        "coordinates": "124.38,-0.17"
+      },
+      "Lintang": "0.17 LS",
+      "Bujur": "124.38 BT",
+      "Magnitude": "5.2 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "74 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+    },
+    {
+      "Tanggal": "24-Nov-19",
+      "Jam": "08:08:25 WIB",
+      "point": {
+        "coordinates": "97.73,-0.94"
+      },
+      "Lintang": "0.94 LS",
+      "Bujur": "97.73 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "19 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "168 km BaratDaya NIASSELATAN-SUMUT"
+    },
+    {
+      "Tanggal": "23-Nov-19",
+      "Jam": "19:11:14 WIB",
+      "point": {
+        "coordinates": "132.9,1.69"
+      },
+      "Lintang": "1.69 LU",
+      "Bujur": "132.9 BT",
+      "Magnitude": "6.1 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "280 km TimurLaut TAMBRAUW-PAPUABRT"
+    },
+    {
+      "Tanggal": "23-Nov-19",
+      "Jam": "18:39:59 WIB",
+      "point": {
+        "coordinates": "128.89,-7.61"
+      },
+      "Lintang": "7.61 LS",
+      "Bujur": "128.89 BT",
+      "Magnitude": "5.5 SR",
+      "Kedalaman": "155 Km",
+      "_symbol": "../imagesSWF/k3.swf",
+      "Wilayah": "136 km TimurLaut MALUKUBRTDAYA"
+    },
+    {
+      "Tanggal": "22-Nov-19",
+      "Jam": "05:55:06 WIB",
+      "point": {
+        "coordinates": "130.17,-7.27"
+      },
+      "Lintang": "7.27 LS",
+      "Bujur": "130.17 BT",
+      "Magnitude": "5.4 SR",
+      "Kedalaman": "105 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "148 km BaratLaut MALUKUTENGGARABRT"
+    },
+    {
+      "Tanggal": "22-Nov-19",
+      "Jam": "05:29:22 WIB",
+      "point": {
+        "coordinates": "97.78,-1.02"
+      },
+      "Lintang": "1.02 LS",
+      "Bujur": "97.78 BT",
+      "Magnitude": "5.2 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "177 km BaratDaya NIASSELATAN-SUMUT"
+    },
+    {
+      "Tanggal": "21-Nov-19",
+      "Jam": "12:14:33 WIB",
+      "point": {
+        "coordinates": "127.18,4.97"
+      },
+      "Lintang": "4.97 LU",
+      "Bujur": "127.18 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "30 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "121 km TimurLaut MELONGUANE-SULUT"
+    },
+    {
+      "Tanggal": "20-Nov-19",
+      "Jam": "03:27:21 WIB",
+      "point": {
+        "coordinates": "113.23,-12.96"
+      },
+      "Lintang": "12.96 LS",
+      "Bujur": "113.23 BT",
+      "Magnitude": "5.2 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "513 km BaratDaya KUTASELATAN-BALI"
+    },
+    {
+      "Tanggal": "19-Nov-19",
+      "Jam": "09:46:45 WIB",
+      "point": {
+        "coordinates": "128.24,-7.55"
+      },
+      "Lintang": "7.55 LS",
+      "Bujur": "128.24 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "128 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "83 km TimurLaut MALUKUBRTDAYA"
+    },
+    {
+      "Tanggal": "19-Nov-19",
+      "Jam": "04:40:08 WIB",
+      "point": {
+        "coordinates": "134.07,-0.48"
+      },
+      "Lintang": "0.48 LS",
+      "Bujur": "134.07 BT",
+      "Magnitude": "5.3 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "42 km TimurLaut MANOKWARI-PAPUABRT"
+    },
+    {
+      "Tanggal": "17-Nov-19",
+      "Jam": "08:29:04 WIB",
+      "point": {
+        "coordinates": "95.11,7.04"
+      },
+      "Lintang": "7.04 LU",
+      "Bujur": "95.11 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "63 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "129 km BaratLaut KOTA-SABANG-ACEH"
+    },
+    {
+      "Tanggal": "17-Nov-19",
+      "Jam": "00:46:03 WIB",
+      "point": {
+        "coordinates": "137.67,-3.09"
+      },
+      "Lintang": "3.09 LS",
+      "Bujur": "137.67 BT",
+      "Magnitude": "5.2 SR",
+      "Kedalaman": "127 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "44 km BaratLaut PUNCAKJAYA-PAPUA"
+    },
+    {
+      "Tanggal": "16-Nov-19",
+      "Jam": "17:19:16 WIB",
+      "point": {
+        "coordinates": "126.34,1.67"
+      },
+      "Lintang": "1.67 LU",
+      "Bujur": "126.34 BT",
+      "Magnitude": "5.9 SR",
+      "Kedalaman": "35 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "137 km TimurLaut BITUNG-SULUT"
+    },
+    {
+      "Tanggal": "16-Nov-19",
+      "Jam": "06:44:32 WIB",
+      "point": {
+        "coordinates": "126.45,1.59"
+      },
+      "Lintang": "1.59 LU",
+      "Bujur": "126.45 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "127 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "19:52:22 WIB",
+      "point": {
+        "coordinates": "126.38,1.74"
+      },
+      "Lintang": "1.74 LU",
+      "Bujur": "126.38 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "141 km BaratLaut HALMAHERABARAT-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "16:36:22 WIB",
+      "point": {
+        "coordinates": "126.44,1.53"
+      },
+      "Lintang": "1.53 LU",
+      "Bujur": "126.44 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "125 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "10:12:59 WIB",
+      "point": {
+        "coordinates": "126.48,1.77"
+      },
+      "Lintang": "1.77 LU",
+      "Bujur": "126.48 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "132 km BaratLaut HALMAHERABARAT-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "08:17:35 WIB",
+      "point": {
+        "coordinates": "126.39,1.73"
+      },
+      "Lintang": "1.73 LU",
+      "Bujur": "126.39 BT",
+      "Magnitude": "5.9 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "140 km BaratLaut HALMAHERABARAT-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "07:39:12 WIB",
+      "point": {
+        "coordinates": "126.39,1.73"
+      },
+      "Lintang": "1.73 LU",
+      "Bujur": "126.39 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "140 km BaratLaut HALMAHERABARAT-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "06:17:20 WIB",
+      "point": {
+        "coordinates": "126.36,1.72"
+      },
+      "Lintang": "1.72 LU",
+      "Bujur": "126.36 BT",
+      "Magnitude": "5.5 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "141 km TimurLaut BITUNG-SULUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "05:42:23 WIB",
+      "point": {
+        "coordinates": "126.37,1.71"
+      },
+      "Lintang": "1.71 LU",
+      "Bujur": "126.37 BT",
+      "Magnitude": "5.3 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "141 km BaratLaut HALMAHERABARAT-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "05:34:20 WIB",
+      "point": {
+        "coordinates": "126.29,1.6"
+      },
+      "Lintang": "1.6 LU",
+      "Bujur": "126.29 BT",
+      "Magnitude": "5.5 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "130 km TimurLaut BITUNG-SULUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "05:15:10 WIB",
+      "point": {
+        "coordinates": "126.51,1.75"
+      },
+      "Lintang": "1.75 LU",
+      "Bujur": "126.51 BT",
+      "Magnitude": "5.2 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "128 km BaratLaut HALMAHERABARAT-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "04:37:26 WIB",
+      "point": {
+        "coordinates": "126.39,1.49"
+      },
+      "Lintang": "1.49 LU",
+      "Bujur": "126.39 BT",
+      "Magnitude": "5.3 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "128 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "04:12:56 WIB",
+      "point": {
+        "coordinates": "126.36,1.66"
+      },
+      "Lintang": "1.66 LU",
+      "Bujur": "126.36 BT",
+      "Magnitude": "6.1 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "139 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "04:07:28 WIB",
+      "point": {
+        "coordinates": "126.31,1.68"
+      },
+      "Lintang": "1.68 LU",
+      "Bujur": "126.31 BT",
+      "Magnitude": "5.2 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "134 km TimurLaut BITUNG-SULUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "03:54:02 WIB",
+      "point": {
+        "coordinates": "126.38,1.66"
+      },
+      "Lintang": "1.66 LU",
+      "Bujur": "126.38 BT",
+      "Magnitude": "5.3 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "137 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "03:39:07 WIB",
+      "point": {
+        "coordinates": "126.35,1.72"
+      },
+      "Lintang": "1.72 LU",
+      "Bujur": "126.35 BT",
+      "Magnitude": "5.4 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "139 km TimurLaut BITUNG-SULUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "03:19:41 WIB",
+      "point": {
+        "coordinates": "126.42,1.83"
+      },
+      "Lintang": "1.83 LU",
+      "Bujur": "126.42 BT",
+      "Magnitude": "5.5 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "140 km BaratLaut HALMAHERABARAT-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "01:45:39 WIB",
+      "point": {
+        "coordinates": "126.4,1.49"
+      },
+      "Lintang": "1.49 LU",
+      "Bujur": "126.4 BT",
+      "Magnitude": "5.9 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "127 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "14-Nov-19",
+      "Jam": "23:17:43 WIB",
+      "point": {
+        "coordinates": "126.39,1.67"
+      },
+      "Lintang": "1.67 LU",
+      "Bujur": "126.39 BT",
+      "Magnitude": "7.1 SR",
+      "Kedalaman": "73 Km",
+      "_symbol": "../imagesSWF/m3b.swf",
+      "Wilayah": "137 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "01:30:14 WIB",
+      "point": {
+        "coordinates": "94.46,6.81"
+      },
+      "Lintang": "6.81 LU",
+      "Bujur": "94.46 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "175 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "139 km BaratLaut KOTA-SABANG-ACEH"
+    },
+    {
+      "Tanggal": "14-Nov-19",
+      "Jam": "23:17:43 WIB",
+      "point": {
+        "coordinates": "126.39,1.67"
+      },
+      "Lintang": "1.67 LU",
+      "Bujur": "126.39 BT",
+      "Magnitude": "7.1 SR",
+      "Kedalaman": "73 Km",
+      "_symbol": "../imagesSWF/k3.swf",
+      "Wilayah": "137 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "15-Nov-19",
+      "Jam": "00:55:18 WIB",
+      "point": {
+        "coordinates": "126.46,1.54"
+      },
+      "Lintang": "1.54 LU",
+      "Bujur": "126.46 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "128 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "14-Nov-19",
+      "Jam": "23:17:41 WIB",
+      "point": {
+        "coordinates": "126.4,1.63"
+      },
+      "Lintang": "1.63 LU",
+      "Bujur": "126.4 BT",
+      "Magnitude": "7.4 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m3.swf",
+      "Wilayah": "134 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "14-Nov-19",
+      "Jam": "17:21:39 WIB",
+      "point": {
+        "coordinates": "114.9,-8.16"
+      },
+      "Lintang": "8.16 LS",
+      "Bujur": "114.9 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "21 km BaratDaya BULELENG-BALI"
+    },
+    {
+      "Tanggal": "12-Nov-19",
+      "Jam": "18:42:50 WIB",
+      "point": {
+        "coordinates": "97.41,0.87"
+      },
+      "Lintang": "0.87 LU",
+      "Bujur": "97.41 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "22 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "12 km BaratDaya NIASBARAT-SUMUT"
+    },
+    {
+      "Tanggal": "12-Nov-19",
+      "Jam": "17:10:42 WIB",
+      "point": {
+        "coordinates": "128.35,-3.49"
+      },
+      "Lintang": "3.49 LS",
+      "Bujur": "128.35 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "25 km TimurLaut AMBON-MALUKU"
+    },
+    {
+      "Tanggal": "12-Nov-19",
+      "Jam": "06:41:00 WIB",
+      "point": {
+        "coordinates": "126.96,1.38"
+      },
+      "Lintang": "1.38 LU",
+      "Bujur": "126.96 BT",
+      "Magnitude": "5.9 SR",
+      "Kedalaman": "83 Km",
+      "_symbol": "../imagesSWF/k3.swf",
+      "Wilayah": "66 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "11-Nov-19",
+      "Jam": "16:20:59 WIB",
+      "point": {
+        "coordinates": "131.17,-6.48"
+      },
+      "Lintang": "6.48 LS",
+      "Bujur": "131.17 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "166 km BaratLaut MALUKUTENGGARABRT"
+    },
+    {
+      "Tanggal": "09-Nov-19",
+      "Jam": "02:57:24 WIB",
+      "point": {
+        "coordinates": "127.37,4.75"
+      },
+      "Lintang": "4.75 LU",
+      "Bujur": "127.37 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "24 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "113 km TimurLaut MELONGUANE-SULUT"
+    },
+    {
+      "Tanggal": "08-Nov-19",
+      "Jam": "05:41:29 WIB",
+      "point": {
+        "coordinates": "126.37,5.63"
+      },
+      "Lintang": "5.63 LU",
+      "Bujur": "126.37 BT",
+      "Magnitude": "5.4 SR",
+      "Kedalaman": "84 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "184 km BaratLaut MELONGUANE-SULUT"
+    },
+    {
+      "Tanggal": "04-Nov-19",
+      "Jam": "23:25:25 WIB",
+      "point": {
+        "coordinates": "127.76,-2.87"
+      },
+      "Lintang": "2.87 LS",
+      "Bujur": "127.76 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "52 km BaratLaut SERAMBAGIANBARAT-MALUKU"
+    },
+    {
+      "Tanggal": "03-Nov-19",
+      "Jam": "04:29:57 WIB",
+      "point": {
+        "coordinates": "118.6,-8.28"
+      },
+      "Lintang": "8.28 LS",
+      "Bujur": "118.6 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "154 Km",
+      "_symbol": "../imagesSWF/k2.swf",
+      "Wilayah": "23 km BaratLaut BIMA-NTB"
+    },
+    {
+      "Tanggal": "01-Nov-19",
+      "Jam": "09:33:57 WIB",
+      "point": {
+        "coordinates": "127.07,3.25"
+      },
+      "Lintang": "3.25 LU",
+      "Bujur": "127.07 BT",
+      "Magnitude": "5.3 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "93 km Tenggara MELONGUANE-SULUT"
+    },
+    {
+      "Tanggal": "31-Oct-19",
+      "Jam": "00:29:00 WIB",
+      "point": {
+        "coordinates": "126.39,1.49"
+      },
+      "Lintang": "1.49 LU",
+      "Bujur": "126.39 BT",
+      "Magnitude": "5.4 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "128 km BaratLaut JAILOLO-MALUT"
+    },
+    {
+      "Tanggal": "24-Oct-19",
+      "Jam": "20:38:18 WIB",
+      "point": {
+        "coordinates": "124.22,1.11"
+      },
+      "Lintang": "1.11 LU",
+      "Bujur": "124.22 BT",
+      "Magnitude": "5.6 SR",
+      "Kedalaman": "243 Km",
+      "_symbol": "../imagesSWF/k3.swf",
+      "Wilayah": "34 km TimurLaut LOLAK-BOLMONG-SULUT"
+    },
+    {
+      "Tanggal": "23-Oct-19",
+      "Jam": "10:50:45 WIB",
+      "point": {
+        "coordinates": "138.47,-2.5"
+      },
+      "Lintang": "2.5 LS",
+      "Bujur": "138.47 BT",
+      "Magnitude": "5.1 SR",
+      "Kedalaman": "10 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "21 km Tenggara MAMBERAMOTENGAH-PAPUA"
+    },
+    {
+      "Tanggal": "23-Oct-19",
+      "Jam": "05:54:05 WIB",
+      "point": {
+        "coordinates": "138.41,-2.36"
+      },
+      "Lintang": "2.36 LS",
+      "Bujur": "138.41 BT",
+      "Magnitude": "5.0 SR",
+      "Kedalaman": "13 Km",
+      "_symbol": "../imagesSWF/m2.swf",
+      "Wilayah": "10 km TimurLaut MAMBERAMOTENGAH-PAPUA"
+    }
+  ]
