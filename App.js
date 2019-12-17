@@ -17,8 +17,8 @@ class MyApp extends Component {
 // define your styles
 const styles = StyleSheet.create({
   container: {
-    marginTop:10,
-    backgroundColor:'red'
+    flex: 1,
+    margin: 5,
   },
 });
 
