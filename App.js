@@ -2,6 +2,7 @@
 import React, { Component } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import Heading from './components/Heading'
+import Hero from './components/Hero'
 
 // create a component
 class MyApp extends Component {
@@ -9,6 +10,7 @@ class MyApp extends Component {
     return (
       <View style={styles.container}>
         <Heading/>
+        <Hero/>
       </View>
     );
   }
