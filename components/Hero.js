@@ -29,8 +29,6 @@ const styles = StyleSheet.create({
 
   imageHero: {
     marginTop: 10,
-    marginLeft: 5,
-    marginRight:5,
     borderRadius: 10,
     elevation: 5,
     width: null,
