@@ -32,7 +32,7 @@ export default data = [
     {
         id:"4",
         type:'Fashion',
-        headline:"Most beautiful beach of the costa brava",
+        headline:"Most beautiful beach of the brava",
         user_avatar:"https://i.pravatar.cc/400?img=4",
         username:"ML_Crusta",
         image_link:"https://firebasestorage.googleapis.com/v0/b/mytry-bea8d.appspot.com/o/most%20beautiful%20beach%20of%20the%20costa%20brava.jpg?alt=media&token=bd4e1fd6-8dea-4a0c-b9c3-848b265dba0b"

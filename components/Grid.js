@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
 
   imgLink: {
     borderRadius:20,
-    height: 200,
+    height: 230,
     position: 'absolute',
     top: 0,
     bottom: 0,
@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
   },
 
   gradient: {
-    height: 200,
+    height: 250,
     position: 'absolute',
     top: 0,
     bottom: 0,
