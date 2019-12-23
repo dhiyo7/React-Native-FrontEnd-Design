@@ -54,13 +54,6 @@ class News extends Component {
 const styles = StyleSheet.create({
   container: {},
 
-  tittleGrid: {
-    paddingTop: 10,
-    fontWeight: 'bold',
-    fontSize: 22,
-    marginLeft: 10,
-  },
-
   news: {
     fontWeight: 'bold',
     fontSize: 22,

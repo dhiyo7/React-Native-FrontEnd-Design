@@ -53,6 +53,13 @@ const styles = StyleSheet.create({
     margin: 5,
   },
 
+  tittleGrid: {
+    paddingTop: 10,
+    fontWeight: 'bold',
+    fontSize: 22,
+    marginLeft: 10,
+  },
+
   
 });
 
